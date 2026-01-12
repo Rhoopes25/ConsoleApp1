@@ -5,6 +5,7 @@ public class DiceRoller
 {
     public int[] RollDice(int rolls)
     {
+        
         // dice roll will be between 2-12
         int[] results = new int[13];
         // creats a random number
